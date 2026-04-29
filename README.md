@@ -1,0 +1,1 @@
+# solarcool-booth
